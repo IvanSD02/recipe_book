@@ -1,2 +1,2 @@
-# recipe_book
+# Recipe Book
 OOP Project
